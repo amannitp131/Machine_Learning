@@ -1,0 +1,21 @@
+# Core Data Science and ML packages with NumPy 1.x compatibility
+numpy<2.0
+pandas<2.1
+matplotlib<3.8
+scikit-learn<1.4
+scipy<1.11
+
+# Web scraping and requests
+bs4
+requests
+
+# Jupyter and notebook support
+jupyter
+ipykernel
+
+# Additional ML packages (optional)
+seaborn<0.13
+plotly<6.0
+
+# Note: These version constraints ensure NumPy 1.x compatibility
+# If you need to use NumPy 2.x, all packages must be updated to compatible versions
